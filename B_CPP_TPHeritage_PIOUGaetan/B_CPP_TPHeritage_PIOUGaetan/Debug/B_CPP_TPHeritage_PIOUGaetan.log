@@ -1,0 +1,8 @@
+﻿  CPointcol.cpp
+  CPointcool.cpp
+  main.cpp
+D:\ZSeven\LUDUS\CPP\B_CPP_TPHeritage_PIOUGaetan\B_CPP_TPHeritage_PIOUGaetan\B_CPP_TPHeritage_PIOUGaetan\main.cpp(14,23): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\ZSeven\LUDUS\CPP\B_CPP_TPHeritage_PIOUGaetan\B_CPP_TPHeritage_PIOUGaetan\B_CPP_TPHeritage_PIOUGaetan\main.cpp(20,28): warning C4305: 'argument' : troncation de 'double' à 'float'
+  Génération de code en cours...
+  LINK : D:\ZSeven\LUDUS\CPP\B_CPP_TPHeritage_PIOUGaetan\B_CPP_TPHeritage_PIOUGaetan\Debug\B_CPP_TPHeritage_PIOUGaetan.exe introuvable ou non généré par la dernière édition de liens incrémentielle ; édition de liens complète en cours
+  B_CPP_TPHeritage_PIOUGaetan.vcxproj -> D:\ZSeven\LUDUS\CPP\B_CPP_TPHeritage_PIOUGaetan\B_CPP_TPHeritage_PIOUGaetan\Debug\B_CPP_TPHeritage_PIOUGaetan.exe
